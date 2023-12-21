@@ -20,3 +20,13 @@ Dependent variable: Chance of Admit ( ranging from 0 to 1 )
 1. Accuracy
 2. Graphs max_depth vs accuracy and ccp_alpha vs accuracy.
 3. Final graph and text based Decision Tree along with predictions.
+
+#Modifications in second commit
+
+In the second commit, I have added a web app using flask where user can fill the html form and check the chances of admission.
+
+#Steps
+
+1. Run the flaskapp.py
+2. Now, run ".html" file and fill the form
+3. After filling the form, click on Check button.
